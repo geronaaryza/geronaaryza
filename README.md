@@ -1,3 +1,5 @@
+G-TECH TEAM
+
 Leader: Gerona, Aryza Marinel R. - Handles the Array Input
 
 Members:
