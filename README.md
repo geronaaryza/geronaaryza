@@ -8,6 +8,7 @@ Members:
   Fuentes, Micaela Sofia M. - Finding the Minimum and Maximum Elements
 
 Team Accomplishments:
+
   Gerona - She was responsible for managing the array input functionality.
     > Implemented the input functionality for the array size (N). 
     > Created the input process.
