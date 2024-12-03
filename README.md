@@ -3,9 +3,13 @@ G-TECH TEAM
 Leader: Gerona, Aryza Marinel R. - Handles the Array Input
 
 Members:
+
   Bayona, John Rey M. -  Displaying the Results and Handles Error 
+  
   Dela Cruz, Jeremie DR. - User Interface Designing
+  
   Fuentes, Micaela Sofia M. - Finding the Minimum and Maximum Elements
+
 
 Team Accomplishments:
 
